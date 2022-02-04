@@ -1,6 +1,5 @@
 # Exploratory-Data-Analysis-of-IPL-Cricket-Matches-2008-to-2019
 ### PROJECT DESCRIPTION
-Indian Premier League (IPL), Indian professional Twenty20 (T20) cricket league established in 2008. The league, which is based on a round-robin group and knockout format, has teams in major Indian cities. The brainchild of the Board of Control for Cricket in India (BCCI), the IPL has developed into the most lucrative and most popular outlet for the game of cricket.
 
 We have covered the basic analysis from IPL 2008 to IPL 2018.
 
